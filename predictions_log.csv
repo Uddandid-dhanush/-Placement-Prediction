@@ -1,0 +1,3 @@
+Name,RollNo,cgpa,coding_skill,communication_skill,aptitude_skill,problem_solving,projects_count,internship_count,internship_company_level,certification_count,certification_company_level,avg_skill,intern_cert_ratio,Prediction,Probability
+dhanush,23,7.62,7.0,8.0,7.0,8.0,3.0,3.0,2,3.0,2,8.0,8.0,1,100.0
+charan,1,8.0,10.0,8.0,10.0,7.0,5.0,5.0,2,3.0,2,9.0,9.0,1,99.0

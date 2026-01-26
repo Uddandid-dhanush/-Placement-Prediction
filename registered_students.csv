@@ -1,0 +1,4 @@
+student_id,student_name,branch,cgpa,coding_skill,communication_skill,aptitude_skill,problem_solving,projects_count,internship_count,certification_count,internship_company_level,certification_company_level,technical_skills,tools_known,selected_career
+23,dhanush,ai and ml,7.62,8.0,8.0,9.0,9.0,4,2,4,2,2,"python,aws",git,Data Analyst
+45,Balaji,cse,7.8,8.0,6.0,7.0,9.0,4,3,5,2,2,"python,web development","git,aws",Product Manager
+1,charan,ai and ml,7.67,8.0,8.0,8.0,8.0,4,3,3,2,2,"python,web development,excel","git,aws",Software Developer

@@ -1,0 +1,12 @@
+student_id,student_name,branch,cgpa,coding_skill,communication_skill,aptitude_skill,problem_solving,projects_count,internship_count,certification_count,internship_company_level,certification_company_level,technical_skills,tools_known,selected_career
+55.0,Sai,Ai and Ml,8.0,3.0,2.0,1.0,2.0,2,2,2,2,2,3,3,Software Developer
+133.0,Moksith sai,Ai and Ml,8.62,8.0,5.0,5.0,9.0,10,3,0,3,1,0,0,Product Manager
+135.0,Vishnu,Civil,8.0,7.0,6.0,5.0,5.0,3,2,3,3,3,"Python, SQL","Git, AWS",Software Developer
+10.0,Sai,CSE,8.0,9.0,8.0,7.0,8.0,4,3,4,2,2,"Java,SQL","Git,AWS",Software Developer
+143.0,Dhanush,CSE,7.63,7.0,8.0,8.0,7.0,5,3,0,1,1,"SQL, Machine Learning","Git, AWS",Business Analyst
+12.0,Krishna,Mechanical,9.0,0.0,7.0,8.0,8.0,4,3,6,4,4,"MATLAB, ANSYS","MATLAB, MS Excel",Data Analyst
+120.0,,CSE,0.0,0.0,0.0,0.0,0.0,0,0,0,1,1,,,Software Developer
+120.0,Sudarshan,CSE,8.0,0.0,0.0,0.0,0.0,0,0,0,1,1,,,Software Developer
+120.0,Sudarshan,CSE,8.0,8.0,7.0,7.0,7.0,4,3,4,4,4,"Java, SQL","Git, AWS",Software Developer
+123.0,Ashok,CSE,5.0,2.0,3.0,3.0,2.0,1,1,1,0,1,C++,AWS,Data Analyst
+345,Nithin,CSE,8.0,8.0,7.0,9.0,10.0,3,2,3,2,2,"Pyhon, Java","Git, Aws",Product Manager

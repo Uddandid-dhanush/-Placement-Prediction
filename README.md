@@ -1,0 +1,4 @@
+- Performed complete EDA using Jupyter Notebook
+- Visualized academic and skill-based factors
+- Engineered new features
+- Conducted correlation analysis
